@@ -1,0 +1,11 @@
+D:\TechnicalTest\DataBaseProject\obj\Debug\netcoreapp2.2\DataBaseProject.csproj.CoreCompileInputs.cache
+D:\TechnicalTest\DataBaseProject\obj\Debug\netcoreapp2.2\DataBaseProject.AssemblyInfoInputs.cache
+D:\TechnicalTest\DataBaseProject\obj\Debug\netcoreapp2.2\DataBaseProject.AssemblyInfo.cs
+D:\TechnicalTest\DataBaseProject\bin\Debug\netcoreapp2.2\DataBaseProject.deps.json
+D:\TechnicalTest\DataBaseProject\bin\Debug\netcoreapp2.2\DataBaseProject.runtimeconfig.json
+D:\TechnicalTest\DataBaseProject\bin\Debug\netcoreapp2.2\DataBaseProject.runtimeconfig.dev.json
+D:\TechnicalTest\DataBaseProject\bin\Debug\netcoreapp2.2\DataBaseProject.dll
+D:\TechnicalTest\DataBaseProject\bin\Debug\netcoreapp2.2\DataBaseProject.pdb
+D:\TechnicalTest\DataBaseProject\obj\Debug\netcoreapp2.2\DataBaseProject.dll
+D:\TechnicalTest\DataBaseProject\obj\Debug\netcoreapp2.2\DataBaseProject.pdb
+D:\TechnicalTest\DataBaseProject\obj\Debug\netcoreapp2.2\DataBaseProject.csprojAssemblyReference.cache
